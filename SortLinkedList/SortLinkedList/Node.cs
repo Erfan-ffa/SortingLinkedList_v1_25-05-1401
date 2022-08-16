@@ -73,6 +73,10 @@ namespace SortLinkedList
                     }
                 }
             }
+            else
+            {
+                Console.WriteLine("Queue Is Null!");
+            }
         }
         public void Print()
         {
